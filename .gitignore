@@ -1,0 +1,16 @@
+# NetBeans
+/nbproject/private/
+
+# Build files
+/build/
+/dist/
+/target/
+
+# Java compiled files
+*.class
+
+# Gradle
+.gradle/
+
+# Windows
+Thumbs.db
